@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Andrew Tang Github Profile</title>
     <style>
         #img{
             max-width: 200px;
