@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
     <title>Andrew Tang Github Profile</title>
     <style>
@@ -24,7 +25,8 @@
                 </div>
             </td>
             <td>
-                <p>I am a fullstack software engineer specializing in Java, Springboot, Angular and AWS Cloud services. I'm passionate about learning the newest technology to improve my skillset. I graduated in 2016 at University of Houston with a Bachelor of Science. I chose this major as I have grown up playing video games and have had dreams about building my own video games. I hope to bring my new skillset to the next opportunity that I work at and innovate new and/or existing process.</p>
+                <p>I am a fullstack software engineer specializing in Java, Springboot, Angular and AWS Cloud services. I'm passionate about learning the newest technology to improve my skillset. I graduated in 2016 at University of Houston with a Bachelor of Science. I chose this major as I have grown up playing video games and have had dreams about building my own video games. I hope to bring my new skillset to the next opportunity that I work at and innovate new and/or existing process.
+                </p>
             </td>
         </tr>
 </body>
