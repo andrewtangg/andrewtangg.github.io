@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        #img{
-            max-width: 200px;
-            max-height: 200px;
-        }
-    </style>
 </head>
 <body>
     <h2>Andrew Tang</h2>
